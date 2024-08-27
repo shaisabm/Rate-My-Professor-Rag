@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. John Smith",
+      "subject": "Introduction to Computer Science",
+      "stars": 4,
+      "review": "Great professor, explains concepts clearly."
+    },
+    {
+      "professor": "Dr. Jane Doe",
+      "subject": "Advanced Algorithms",
+      "stars": 5,
+      "review": "Challenging course but very rewarding."
+    },
+    {
+      "professor": "Dr. Emily Johnson",
+      "subject": "Data Structures",
+      "stars": 4,
+      "review": "Very knowledgeable but sometimes hard to follow."
+    },
+    {
+      "professor": "Dr. Michael Brown",
+      "subject": "Operating Systems",
+      "stars": 5,
+      "review": "Engaging lectures and helpful office hours."
+    },
+    {
+      "professor": "Dr. Sarah Davis",
+      "subject": "Database Systems",
+      "stars": 4,
+      "review": "Good course material and fair exams."
+    },
+    {
+      "professor": "Dr. Robert Wilson",
+      "subject": "Computer Networks",
+      "stars": 3,
+      "review": "Interesting content but lectures can be dry."
+    },
+    {
+      "professor": "Dr. Laura Martinez",
+      "subject": "Software Engineering",
+      "stars": 5,
+      "review": "Very practical and hands-on approach."
+    },
+    {
+      "professor": "Dr. James Anderson",
+      "subject": "Artificial Intelligence",
+      "stars": 4,
+      "review": "Fascinating subject, well taught."
+    },
+    {
+      "professor": "Dr. Patricia Thomas",
+      "subject": "Machine Learning",
+      "stars": 5,
+      "review": "Excellent course with lots of real-world examples."
+    },
+    {
+      "professor": "Dr. Linda Jackson",
+      "subject": "Human-Computer Interaction",
+      "stars": 4,
+      "review": "Engaging and interactive lectures."
+    },
+    {
+      "professor": "Dr. Richard White",
+      "subject": "Cybersecurity",
+      "stars": 3,
+      "review": "Good content but could be more in-depth."
+    },
+    {
+      "professor": "Dr. Barbara Harris",
+      "subject": "Computer Graphics",
+      "stars": 5,
+      "review": "Amazing course with lots of creative projects."
+    },
+    {
+      "professor": "Dr. William Clark",
+      "subject": "Parallel Computing",
+      "stars": 4,
+      "review": "Challenging but very informative."
+    },
+    {
+      "professor": "Dr. Jennifer Lewis",
+      "subject": "Quantum Computing",
+      "stars": 5,
+      "review": "Cutting-edge material, very well presented."
+    },
+    {
+      "professor": "Dr. Charles Walker",
+      "subject": "Theory of Computation",
+      "stars": 3,
+      "review": "Difficult subject, but the professor is helpful."
+    },
+    {
+      "professor": "Dr. Susan Hall",
+      "subject": "Compiler Design",
+      "stars": 4,
+      "review": "Very technical but rewarding."
+    },
+    {
+      "professor": "Dr. Steven Young",
+      "subject": "Embedded Systems",
+      "stars": 5,
+      "review": "Great hands-on labs and projects."
+    },
+    {
+      "professor": "Dr. Karen King",
+      "subject": "Natural Language Processing",
+      "stars": 4,
+      "review": "Interesting subject, well taught."
+    },
+    {
+      "professor": "Dr. Donald Wright",
+      "subject": "Robotics",
+      "stars": 5,
+      "review": "Very engaging and practical course."
+    },
+    {
+      "professor": "Dr. Nancy Scott",
+      "subject": "Cloud Computing",
+      "stars": 4,
+      "review": "Comprehensive coverage of cloud technologies."
+    }
+  ]
+}
